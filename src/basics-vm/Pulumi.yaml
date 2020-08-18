@@ -1,0 +1,3 @@
+name: basics-vm
+runtime: nodejs
+description: A Hello-World equivalent in Iac with Pulumi
