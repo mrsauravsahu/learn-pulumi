@@ -1,6 +1,0 @@
-config:
-  azure:environment: public
-  azure:location: WestUS
-  basics-vm:password:
-    secure: AAABAAHsEryvKThgS8qZef5TskLNIMW/1IL/jXIElKO6pb/DAIA3c54v
-  basics-vm:username: azure
